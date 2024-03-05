@@ -53,7 +53,7 @@ body{
 	font-weight: 400;
 	font-size:14px;
 	color:#888;
-	background-image: bg1.jpg;
+	background: bg1.jpg;
 }
 .pro-features {
 	position: fixed;
